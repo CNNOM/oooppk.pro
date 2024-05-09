@@ -584,26 +584,22 @@
                                                         <div id="form-wrap">
                                                             <div id="form">
                                                                 <form action="api.php" method="POST">
-                                                                    <input type="hidden" name="subid"
-                                                                           value="3q1smn64ltoaf">
-                                                                    <input type="hidden" name="formId" value="1">
+
+                                                                    <label class="example"><em>Ваше имя и фамилия</em></label>
+                                                                    <input name="name" type="text" placeholder="Имя и фамилия" required id="name">
+
+                                                                    <label class="example"><em>Номер телефона</em></label>
+                                                                    <input name="phone" type="tel" class="phone-input-1" required id="phone" pattern="\d{7,13}">
+
+
                                                                     <input type="hidden" name="flow" value="4884">
                                                                     <input type="hidden" name="offer" value="3">
                                                                     <input type="hidden" name="country" value="PE">
-                                                                    <input type="hidden" name="currency"
-                                                                           value="149.00 pen">
-                                                                    <input type="hidden" name="gсlid" value="{gсlid}">
-                                                                    <label class="example"><em>Tu nombre y apellido</em></label>
-                                                                    <input name="name" type="text" placeholder="Nombre"
-                                                                           required="" id="name" value="">
+                                                                    <input type="hidden" name="currency" value="149.00 pen">
+                                                                    <input type="hidden" name="formId" value="1">
 
-                                                                    <label class="example"><em>Número de
-                                                                        teléfono</em></label>
-                                                                    <input name="phone" type="tel" class="phone-input-1"
-                                                                           required="" id="phone" minlength="7"
-                                                                           maxlength="13">
+                                                                    <button type="submit">Отправить</button>
 
-                                                                    <button type="submit">PEDIR</button>
                                                                 </form>
                                                             </div>
                                                         </div>
@@ -938,6 +934,7 @@
 <!-- Showcases END  -->
 </body>
 </html>
+
 <style>
     #wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before {
         content: "\f160";
