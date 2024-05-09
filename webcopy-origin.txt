@@ -1,0 +1,100 @@
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/a0ac12558.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\a0ac12558.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/css.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\css.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/elementor-icons.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/frontend.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/post-2248.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\post-2248.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/post-6.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\post-6.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/solid.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\solid.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/style.min-1.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\style.min-1.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/style.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\style.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/styles.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\styles.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/theme.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\theme.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/2-1-768x768.gif
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\2-1-768x768.gif
+Content Type: image/gif
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/2-768x768.png
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\2-768x768.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/4-768x768.png
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\4-768x768.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/cert.png
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\cert.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/ph1.png
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\ph1.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/product.png
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\product.png
+Content Type: image/png
+
+Uri: https://oooppk.pro/lander/cardiox_-_3___1697791753/img/WhatsApp-Image-2020-06-23-at-14.20.15-2-2-2.webp
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\cardiox_-_3___1697791753\img\WhatsApp-Image-2020-06-23-at-14.20.15-2-2-2.webp
+Content Type: image/webp
+
+Uri: https://oooppk.pro/lander/mv/counters/first.min.js
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\mv\counters\first.min.js
+Content Type: application/javascript
+
+Uri: https://oooppk.pro/lander/mv/counters/second.min.js
+File Name: C:\Downloaded Web Sites\oooppk.pro\lander\mv\counters\second.min.js
+Content Type: application/javascript
+
+Uri: https://oooppk.pro/tRkvD2
+File Name: C:\Downloaded Web Sites\oooppk.pro\tRkvD2.html
+Content Type: text/html
+
+Uri: https://showcases.api.sub28.pro/static/js/showcases/index-e689ec25.js
+File Name: C:\Downloaded Web Sites\oooppk.pro\static\js\showcases\index-e689ec25.js
+Content Type: application/javascript
+
